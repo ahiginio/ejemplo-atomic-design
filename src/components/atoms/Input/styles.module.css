@@ -1,0 +1,19 @@
+.containerStyle {
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.containerStyle img {
+  width: 40px;
+  position: absolute;
+  right: 0;
+}
+.default {
+  border: none ;
+  border-bottom: 1px solid #323232;
+  outline: none;
+  color: #323232;
+  width: 100%;
+  padding: 15px;
+}
